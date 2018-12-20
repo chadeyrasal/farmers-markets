@@ -1,0 +1,3 @@
+class FarmersMarkets::Market
+  
+end
