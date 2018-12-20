@@ -1,12 +1,7 @@
-Hello World! 
-How is it going in here? 
+# Farmers Markets in the UK
 
+Welcome to the Farmers Markets UK CLI application. This application allows the user to get a list of all farmers markets in the UK as listed by the FARMA - National Farmers' Retail and Markets Association. 
 
-# Farmers::Markets
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/farmers/markets`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
@@ -20,13 +15,18 @@ And then execute:
 
     $ bundle
 
+------
+
+To be checked. I believe this requires the creation of a gem specific to the application on ruby-gems.com
 Or install it yourself as:
 
     $ gem install farmers-markets
+    
+------
 
 ## Usage
 
-TODO: Write usage instructions here
+To use the Farmers Markets UK CLI application you need to type 'farmers-markets' in your terminal and press enter. Once the application is launched you will simply need to follow the prompts on the screen. 
 
 ## Development
 
